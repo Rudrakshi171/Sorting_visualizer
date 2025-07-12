@@ -1,10 +1,1 @@
-C:\Users\Indian\source\repos\SortingVisualizer\SortingVisualizer\bin\Debug\SortingVisualizer.exe.config
-C:\Users\Indian\source\repos\SortingVisualizer\SortingVisualizer\bin\Debug\SortingVisualizer.exe
-C:\Users\Indian\source\repos\SortingVisualizer\SortingVisualizer\bin\Debug\SortingVisualizer.pdb
-C:\Users\Indian\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.csproj.AssemblyReference.cache
-C:\Users\Indian\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.Form1.resources
-C:\Users\Indian\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.Properties.Resources.resources
-C:\Users\Indian\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.csproj.GenerateResource.cache
-C:\Users\Indian\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.csproj.CoreCompileInputs.cache
-C:\Users\Indian\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.exe
-C:\Users\Indian\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.pdb
+
